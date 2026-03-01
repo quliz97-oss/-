@@ -1,0 +1,5 @@
+{
+  "name": "RentCar Safety Insight",
+  "description": "렌트카 사고 데이터를 점수화하고 취약유형을 분석하여 교통안전을 개선하는 공공 플랫폼입니다.",
+  "requestFramePermissions": []
+}
